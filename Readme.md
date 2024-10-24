@@ -24,4 +24,5 @@ You can install the package after downloading or cloning the repository:
 
 
 If you dont want to build you can download the release from github then use this command:
+
 `pip windows_atom-1.0-py3-none-any.whl`
