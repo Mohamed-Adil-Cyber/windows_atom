@@ -15,7 +15,9 @@
 You can install the package after downloading or cloning the repository:
 
 git clone https://github.com/Mohamed-Adil-Cyber/windows_atom.git
+
 cd windows_atom
+
 python setup.py install
 
 
