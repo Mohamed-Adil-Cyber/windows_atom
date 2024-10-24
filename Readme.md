@@ -11,17 +11,19 @@
 - Delete an atom using `delete_atom`
 
 ## Installation
+You can install through pypi with:
+
+`pip install windows-atom`
+
 
 You can install the package after downloading or cloning the repository:
 
--git clone https://github.com/Mohamed-Adil-Cyber/windows_atom.git
-
--cd windows_atom
-
--python setup.py install
+- git clone https://github.com/Mohamed-Adil-Cyber/windows_atom.git
+- cd windows_atom
+- python setup.py install
 
 
-or if you dont want to build you can
+If you dont want to build you can:
 
 -download the release
 -pip windows_atom-1.0-py3-none-any.whl
