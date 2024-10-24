@@ -26,3 +26,32 @@ You can install the package after downloading or cloning the repository:
 If you dont want to build you can download the release from github then use this command:
 
 `pip windows_atom-1.0-py3-none-any.whl`
+
+
+## Usage
+
+You can import the files with:
+
+`from windows_atom import *`
+
+Adding an Atom and it will return an id:
+
+`add_atom("Hello world")`
+
+Add an Atom with local or global Flags:
+
+`global_atom = add_atomEx("example_global_atom")`  # Global atom
+`local_atom = add_atomEx("example_local_atom", flags=1)`  # Local atom
+
+
+Find an Atom using id:
+
+`get_atom_name(atom)`
+
+Find an Atom using name:
+
+`find_atom("example_unicode_atom") `
+
+Delete an Atom:
+
+`delete_atom(atom)`
