@@ -34,9 +34,9 @@ You can import the files with:
 
 `from windows_atom import *`
 
-Adding an Atom and it will return an id:
+Adding an Atom :
 
-`add_atom("Hello world")`
+`add_atom("Hello world")` #Will return an atom id
 
 Add an Atom with local or global Flags:
 
