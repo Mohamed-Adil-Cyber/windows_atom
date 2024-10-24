@@ -1,6 +1,6 @@
 # windows_atom
 
-`windows_atom` is a Python library that provides an interface for interacting with the Windows atom table using the `ctypes` module. This library allows for adding, finding, retrieving, and deleting global or local atoms.
+`windows_atom` is a Python library that provides an interface for interacting with the Windows atom table using a `ctypes` module wrapper. This library allows for adding, finding, retrieving, and deleting global or local atoms.
 
 ## Features
 
