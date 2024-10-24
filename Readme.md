@@ -13,7 +13,7 @@
 ## Installation
 You can install through pypi with:
 
-`pip install windows-atom`
+`pip install windows_atom`
 
 
 You can install the package after downloading or cloning the repository:
