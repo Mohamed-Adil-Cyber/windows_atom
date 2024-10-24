@@ -5,7 +5,7 @@
 ## Features
 
 - Add atoms globally using `add_atom`
-- Add atoms with flags using `add_atomEx`
+- Add atoms with local or global flags using `add_atomEx`
 - Search for an atom with `find_atom`
 - Retrieve the name of an atom with `get_atom_name`
 - Delete an atom using `delete_atom`
