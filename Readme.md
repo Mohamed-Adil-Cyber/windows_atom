@@ -41,6 +41,7 @@ Adding an Atom :
 Add an Atom with local or global Flags:
 
 `global_atom = add_atomEx("example_global_atom")`  # Global atom
+
 `local_atom = add_atomEx("example_local_atom", flags=1)`  # Local atom
 
 
